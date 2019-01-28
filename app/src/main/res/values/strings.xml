@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">抢红包0</string>
+    <string name="accessibility_service_description">打开即可开启抢红包,关闭即可关闭抢红包服务</string>
+</resources>
